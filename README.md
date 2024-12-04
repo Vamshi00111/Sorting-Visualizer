@@ -40,8 +40,6 @@ This project is a **Sorting Algorithm Visualizer** built using **Pygame**. It vi
 
 ---
 
----
-
 ## **Key Files**  
 - `visualizer.py`: Contains the main visualizer logic and Bubble Sort implementation.  
 - `sortingAlgorithms.py`: Extendable module for additional sorting algorithms.  
