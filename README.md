@@ -48,9 +48,4 @@ This project is a **Sorting Algorithm Visualizer** built using **Pygame**. It vi
 
 ---
 
-## **Screenshots**  
-_Yet to add_  
-
----
-
 ### **Happy Sorting!** 🚀  
