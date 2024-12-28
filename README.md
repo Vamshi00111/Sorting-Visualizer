@@ -1,7 +1,7 @@
 
 # **Sorting Visualizer**  
 
-This project is a **Sorting Algorithm Visualizer** built using **Pygame**. It visually represents the step-by-step process of sorting algorithms, making it a great tool for understanding how these algorithms work.
+This project is a **Sorting Algorithm Visualizer** built using **Pygame**. It visually represents the step by step process of sorting algorithms, making it a great tool for understanding how these algorithms work.
 
 ---
 
